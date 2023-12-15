@@ -16,7 +16,7 @@ To install and run this project locally, follow these steps:
 
 Clone the repository to your local machine:
 
-git clone https://github.com/vodav0da/fancy-animation-showcase.git
+
 Open the project folder:
 
 cd fancy-animation-showcase
